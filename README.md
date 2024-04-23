@@ -22,7 +22,7 @@ repositories {
     		url = uri('https://maven.pkg.github.com/camilacarvalhoaraujo/teste')
     		credentials {
       			username = 'camilacarvalhoaraujo'
-      			password = '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'
+      			password = TOKEN
     		}
 	}
 }
